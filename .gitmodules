@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:HosakaKeigo/OctoThinkBackend.git
+[submodule "githubApp"]
+	path = githubApp
+	url = git@github.com:HosakaKeigo/OctoThinkApp.git
