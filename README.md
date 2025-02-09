@@ -23,3 +23,7 @@ Check out the [githubApp](https://github.com/HosakaKeigo/OctoThinkFrontend). Fol
 ## Demo
 
 https://youtu.be/ap8pr5bRXV8
+
+## Zenn
+
+https://zenn.dev/hosaka313/articles/bc9768b8baaf0d
